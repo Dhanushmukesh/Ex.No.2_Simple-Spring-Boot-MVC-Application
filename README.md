@@ -140,5 +140,9 @@ public class HomeController {
 
 ### application.properties:
  server.port=8081
+## output:
+<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/28ff4f53-7d59-448e-827d-4651445c6c46" />
 
+## result:
+A Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages is developed.
 
